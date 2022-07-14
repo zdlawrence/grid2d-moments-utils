@@ -28,6 +28,8 @@ Lawrence, Z. D., & Manney, G. L. (2018). Characterizing stratospheric polar vort
 
 Manney, G. L., Santee, M. L., Lawrence, Z. D., Wargan, K., & Schwartz, M. J. (2021). A moments view of climatology and variability of the Asian summer monsoon anticyclone. Journal of Climate, 34(19), 7821-7841, https://doi.org/10.1175/JCLI-D-20-0729.1
 
+Matthewman, N. J., Esler, J. G., Charlton-Perez, A. J., & Polvani, L. M. (2009). A new look at stratospheric sudden warmings. Part III: Polar vortex evolution and vertical structure. Journal of Climate, 22(6), 1566-1585, https://doi.org/10.1175/2008JCLI2365.1
+
 Mitchell, D. M., Charlton-Perez, A. J., & Gray, L. J. (2011). Characterizing the variability and extremes of the stratospheric polar vortices using 2D moment analysis. Journal of the Atmospheric Sciences, 68(6), 1194-1213, https://doi.org/10.1175/2010JAS3555.1
 
 Seviour, W. J., Mitchell, D. M., & Gray, L. J. (2013). A practical method to identify displaced and split stratospheric polar vortex events. Geophysical Research Letters, 40(19), 5268-5273, https://doi.org/10.1002/grl.50927
